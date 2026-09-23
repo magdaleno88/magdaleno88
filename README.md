@@ -8,7 +8,7 @@ Desarrollo software con **Python, automatización y visión por computadora**. S
 
 | Proyecto | Problema y evidencia |
 | --- | --- |
-| [SAM AI: retinopatía y OCT](https://github.com/magdaleno88/Sam_Oct_IA) | Dos flujos de investigación para imágenes de fondo de ojo y OCT. [Caso de estudio](https://github.com/magdaleno88/Sam_Oct_IA/blob/main/docs/CASE_STUDY.md). |
+| [SAM AI: retinopatía y OCT](https://github.com/magdaleno88/Sam_Oct_IA) | Dos flujos de investigación para imágenes de fondo de ojo y OCT. [Caso de estudio](https://github.com/magdaleno88/Sam_Oct_IA/blob/main/docs/CASE_STUDY.md) · [Resultados OCT](https://github.com/magdaleno88/Sam_Oct_IA/blob/main/docs/OCT_RESULTS.md). |
 | [Generador de reportes](https://github.com/magdaleno88/generador_reportes) | Transforma registros de equipos y fotografías en documentos Word. [Caso de estudio y ejemplo reproducible](https://github.com/magdaleno88/generador_reportes/blob/main/docs/CASE_STUDY.md). |
 | [Auto-invoice](https://github.com/magdaleno88/Auto-invoice) | Automatiza pasos de captura de facturas en un sistema interno. [Caso de estudio y entrada ficticia](https://github.com/magdaleno88/Auto-invoice/blob/main/docs/CASE_STUDY.md). |
 | [SAM Annotate API](https://github.com/magdaleno88/sam-annotate-api) | Prototipo Rails para tareas de clasificación y anotaciones. [Caso de estudio](https://github.com/magdaleno88/sam-annotate-api/blob/master/docs/CASE_STUDY.md). |
